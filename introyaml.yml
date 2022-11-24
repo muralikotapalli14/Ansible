@@ -1,0 +1,10 @@
+<key>: <value>
+
+student:
+  name: murali
+  age: 25
+  intrest:
+   -cooking
+   -travelling
+  favourities:
+   -non veg   
